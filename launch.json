@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "usercode_28b51d67"
+        },
+        {
+            "type": "java",
+            "request": "launch"
+        }
+    ]
+}
